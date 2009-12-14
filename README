@@ -1,0 +1,5 @@
+eXSS
+
+A utility for automating XSS attack generation and test reporting in security audits.
+
+Pulls XML attack vector and payload data from Rsnake's site
